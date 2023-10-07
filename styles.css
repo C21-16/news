@@ -1,0 +1,48 @@
+body {
+  background-color: #ccf2ff;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMPyPi79I_8RBi9iXnsWmQxbtJ77aDI1iK_w&usqp=CAU');
+  background-size: 100%
+}
+
+header {
+  background-image: url('https://images.prom.ua/3731675713_foto-fon-vinilovij-patriotichnij.jpg');
+  background-size: 17% auto;
+  background-position: left center 100%;
+  background-repeat: no-repeat;
+  height: 200px;
+
+section {
+  background-image: url('https://img.freepik.com/premium-photo/abstract-luxury-gold-yellow-gradient-studio-wall-well-use-as-backgroundlayoutbanner-and-product-pres_1258-108603.jpg');
+  background-size: 17% auto;   
+  background-position: left center 100%;
+  background-repeat: no-repeat;
+  height: 200px;
+
+a {
+color: #ffffe6
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+
+ul {
+list-style-type: square;
+}
+
+input(type="text"), button {
+background-color: #F2F2F2;
+border: 1px solid #CCCCCC;
+padding: auto;
+}
+ 
+
+
+table {
+border-collapse: collapse;
+width: 10%;
+}
+
+th, td {
+ border: 1px solid #DDDDDD;
+}

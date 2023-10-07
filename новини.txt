@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+   <body>
+    <header class="header">
+      <h1>Моя сторінка</h1>
+      <nav>
+       <ul>
+        <li><a href="#">Головна</a></li>
+        <li><a href="#">Про нас</a></li>
+        <li><a href="#">Контакти</a></li>
+       </u1>
+      </nav>
+     </header> 
+     
+     <section class="content">
+     <h2>Новини</h2>
+     <ul>
+        <li><a href="#">Новини 1</a></li>
+        <li><a href="#">Новини 2</a></li>
+        <li><a href="#">Новини 3</a></li>
+       </u1>
+     </section>
+     
+     <section class="form">
+     <h2>Зв'яжіться з нами</h2>
+      <form>
+       <label for="name">Ваше ім'я:</label>
+       <input type="text" id="name" name="name" required>
+       <label for="email">Ваш Email:</label>
+       <input type="email" id="email" name="email" required>
+       <button type="submit">Відправник</button>
+      </form>
+    </section>
+    
+    <section class="table">
+      <h2>Таблиця з даними</h2>
+      <table>
+    <
+
+</html>
